@@ -8,7 +8,7 @@ public class ArrayInts {
     
     list.add(33);
     list.add(55);
-    list.add(77);
+    list.add(77); // position 2
     list.add(88);
     list.add(22);
     list.add(55);
